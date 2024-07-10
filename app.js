@@ -1,8 +1,8 @@
 const express = require('express');
 const app = express();
-const port = 3000; // Choose your desired port
+const port = 3000; 
 
-// Mock data for demonstration (replace with actual API calls)
+
 const mockData = {
   AMZ: [
     { id: 'amz1', name: 'Laptop 1', price: 2236, rating: 4.7, discount: 63, availability: 'yes' },
