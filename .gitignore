@@ -1,0 +1,29 @@
+# Node.js dependencies
+/node_modules
+
+# Generated files
+npm-debug.log
+yarn-error.log
+*.pem
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+/jspm_packages/
+/bower_components/
+
+# Compiled binary addons
+/build/Release
